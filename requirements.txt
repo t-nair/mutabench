@@ -1,0 +1,6 @@
+anthropic
+openai
+pandas
+matplotlib
+ipywidgets
+rdkit
